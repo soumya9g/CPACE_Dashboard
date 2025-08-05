@@ -1,0 +1,5 @@
+project:
+ type: website
+website: 
+  title: "Invest Atlanta C-PACE Dashboard"
+  output-dir: "_site"
